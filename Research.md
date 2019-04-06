@@ -14,5 +14,5 @@ permalink: /research/
 - CADソフト (Creo Parametric, Rhinoceros)
 
 参考文献
-1. [Shioyoke et al., Energy Fuells, 32, 3, 2018.](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.7b02733/)
+1. [Shioyoke et al., Energy Fuells, 32, 3, 2018.](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.7b02733)
 2. Shioyoke et al., Grand Renewable Energy, a90670, Yokohama, June 2018.
