@@ -7,11 +7,11 @@ layout: home
 
 ![]({{site.baseurl}}/assets/Profile_200.png)
 
-## 研究分野 (Reserch field)
-プラズマ支援燃焼 (Plasma-assisted combustion)
+## 研究分野
+プラズマ支援燃焼
 
-## 発表論文 (Paper)
-[Shioyoke et al., Energy Fuells, 32, 3, 2018.](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.7b02733)
+## 発表論文
+- Akira Shioyoke, Jun Hayashi, Ryuichi Murai, Noriaki Nakatsuka, Fumiteru Akamtsu, Numerical investigation on effects of nonequilibrium plasma on laminar burning velocity of ammonia flame, Energy & Fuells, Vol. 32, No. 3, pp. 3824-3832, 2018.
 
 ## 経歴
 | 2012-2016 | 大阪大学工学部応用理工学科 | 
