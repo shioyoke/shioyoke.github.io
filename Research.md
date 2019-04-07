@@ -10,6 +10,7 @@ permalink: /research/
 
 活用しているツール
 - 化学反応解析 (CHEMKIN, ZDPlasKin, BOLSIG+)
+- 使用言語 (C/C++, Python, FORTRAN, CUDA, matlab)
 - 放電装置 (DBD)
 - CADソフト (Creo Parametric, Rhinoceros)
 
