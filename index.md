@@ -14,6 +14,7 @@ layout: home
 - Akira Shioyoke, Jun Hayashi, Ryuichi Murai, Noriaki Nakatsuka, Fumiteru Akamtsu, Numerical investigation on effects of nonequilibrium plasma on laminar burning velocity of ammonia flame, Energy & Fuells, Vol. 32, No. 3, pp. 3824-3832, 2018.
 
 ## 経歴
+
 | 2012-2016 | 大阪大学工学部応用理工学科 | 
 | 2016-2018 | 大阪大学大学院工学研究科機械工学専攻博士前期課程 |  
 | 2018-2019 | ダイハツ工業株式会社 |  
