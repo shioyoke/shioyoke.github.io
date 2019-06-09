@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Brog
-permalink: /Brog/
+title: Blog
+permalink: /Blog/
 ---
 
 コーディング，燃焼のこと，CADの使い方，実験，趣味について
