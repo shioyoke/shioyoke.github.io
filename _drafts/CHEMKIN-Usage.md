@@ -22,6 +22,13 @@ tags: [CHEMKIN, Usage]
 # ソースコードを見つける
 書く
 
+Sandia National LabolatryのCHEMKINのページ（今は見れない，Way Benchというサービスにアーカイブされている．）に公式ドキュメントのPDFが保管されている．ネットによく転がっている2000年代に発表されたCHEMKIIN-IIIのドキュメントだけでなく，CHEMKIN-IIのドキュメントが含まれている（商用版の機能の表記に惑わされて，不足しているコードを探してしまうことがない）．
+https://web.archive.org/web/20080620010814/http://www.ca.sandia.gov/chemkin/docs.html
+
+University of Notre Dame, Joseph M. Powers
+List of source code files
+https://www3.nd.edu/~powers/ame.60636/chemkin/
+
 # 参照および備考
 1. Kee, R.J., Rupley, F.M., and Miller, J.A. Fri . "Chemkin-II: A Fortran chemical kinetics package for the analysis of gas-phase chemical kinetics". United States.
 2. お金のある研究室はANSYS提供の商用版CHEMKIN-PROを使うと幸せになれる．ただ，反応数が多すぎて可視化できなくなったり，中で何をやっているのか気になって，結局CHEMKIN-IIを使って解析を行ったり，ソース読み読みする羽目にはなりがちである．
