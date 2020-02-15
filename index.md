@@ -10,13 +10,13 @@ layout: home
 ## 研究対象
 燃焼現象に対して非平衡プラズマなどの放電が与える影響を実験・数値解析により探求しています．
 - アンモニアの層流燃焼速度・着火遅れ時間に対する非平衡プラズマの化学反応による影響<sup>1, 2</sup>
-- 非平衡プラズマ支援による燃焼の制御
+- ナノ秒繰り返しパルス放電における放電のパラメータが着火特性に及ぼす影響<sup>3</sup>
+- 火炎伝播に対する電界の印加が輸送特性と化学反応に及ぼす影響
 
 ## スキル
-- 化学反応解析 (CHEMKIN-II, CHEMKIN-PRO, ZDPlasKin, BOLSIG+)
-- 使用言語 (C/C++, Python, FORTRAN, matlab, Processing)
-- 放電装置 (DBD)
-- CADソフト (Creo Parametric, Fusion360, Rhinoceros)
+- 化学反応解析 (CHEMKIN-II, CHEMKIN-PRO, Cantera, ZDPlasKin, BOLSIG+)
+- 使用言語 (C/C++, Python, FORTRAN, matlab)
+- CADソフト (Creo Parametric, Fusion360)
 
 ## 経歴
 
@@ -29,3 +29,4 @@ layout: home
 #### 文献
 1. [Shioyoke et al., Energy Fuells, 32, 3, 2018.](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.7b02733)
 2. Shioyoke et al., Grand Renewable Energy, a90670, Yokohama, June 2018.
+3. 汐除　明、林　潤、川那辺洋、活性化学種の繰り返し供給による着火過程の反応解析、第57回燃焼シンポジウム、札幌、2019年．
