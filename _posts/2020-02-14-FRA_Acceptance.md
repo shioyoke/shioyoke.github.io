@@ -19,4 +19,4 @@ tags: [grant, france]
 
 ## リンク
 
-2019年度フランス政府奨学金（理系）募集要項: https://jp.ambafrance.org/article2915
+[2019年度フランス政府奨学金（理系）募集要項](https://jp.ambafrance.org/article2915)
