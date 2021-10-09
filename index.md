@@ -5,7 +5,7 @@
 layout: home
 ---
 
-![]({{site.baseurl}}/assets/Profile2_400.png)
+![]({{site.baseurl}}/assets/flame_disturbed.JPG)
 
 ## 研究対象
 燃焼現象に対して非平衡プラズマなどの放電が与える影響を実験・数値解析により探求しています．
