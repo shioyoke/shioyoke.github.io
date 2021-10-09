@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-![]({{site.baseurl}}/assets/Profile_200_Arctic.png)
+![]({{site.baseurl}}/assets/Profile_200_200.png)
 
 ### Akira Shioyoke
 kyoutodaigakukumanoryou B-307, Higashitakeyacho 50, Kyoto Shi 
