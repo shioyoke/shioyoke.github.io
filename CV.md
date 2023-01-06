@@ -3,7 +3,7 @@ layout: page
 title: CV
 permalink: /cv/
 ---
-![]({{site.baseurl}}/assets/Profile_200.png)
+![]({{site.baseurl}}/assets/Profile2023_4x3_w400.PNG)
 
 ### Akira Shioyoke
 
