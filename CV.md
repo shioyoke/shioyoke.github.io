@@ -6,8 +6,8 @@ permalink: /cv/
 ![]({{site.baseurl}}/assets/Profile_200.png)
 
 ### Akira Shioyoke
-kyoutodaigakukumanoryou B-307, Higashitakeyacho 50, Kyoto Shi 
-Sakyo Ku, Kyoto Fu, 606-8393, Japan
+
+Sakyo Ku, Kyoto Shi, Kyoto Fu, 606-8393, Japan
 s.akira2986@gmail.com  
 +81 80 6450 3220
 ### Personal Profile
