@@ -17,7 +17,7 @@ I'm Ph.D student in Kyoto university walking the field of combustion from both w
 ### Research Interests
 
 - Chemical reacitons in non-equilibrium plasma-assisted combustion
-- Modeling of combustion phenomena
+- Interaction between flame and electric field via transport and reaction process
 
 ### Education
 
