@@ -21,9 +21,9 @@ I'm Ph.D student in Kyoto university walking the field of combustion from both w
 
 ### Education
 
-B.E. 2012-2016, Osaka University, Japan
-M.E. 2016-2018, Osaka University, Japan
-Ph.D course (in progress) 2019-, Kyoto University, Japan
+B.E. 2012-2016, Osaka University, Japan  
+M.E. 2016-2018, Osaka University, Japan  
+Ph.D course (in progress) 2019-, Kyoto University, Japan  
 
 ### Publications
 
