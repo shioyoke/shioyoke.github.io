@@ -7,7 +7,7 @@ permalink: /cv/
 
 ### Akira Shioyoke
 
-Sakyo Ku, Kyoto Shi, Kyoto Fu, 606-8393, Japan
+Sakyo Ku, Kyoto Shi, Kyoto Fu, Japan
 s.akira2986@gmail.com  
 +81 80 6450 3220
 ### Personal Profile
