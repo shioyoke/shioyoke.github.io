@@ -35,8 +35,8 @@ Ph.D course (in progress) 2019-, Kyoto University, Japan
 #### Conference presentations (English)
 
 1. Akira Shioyoke, Jun Hayashi, Ryuichi Murai, and Fumiteru Akamatsu, Effects of the non-equilibrium plasma on the chemical reaction regarding ignition delay of ammonia flame, Grand Renewable Energy 2018, a90670, Yokohama, Japan, June 2018.  
-2. Akira Shioyoke, Jun Hayashi, Takahiro Inoue, and Hiroshi Kawanabe, Displacement of the stretched laminar premixed flat flame by DC electric field, 2nd ACTS, 1262, October 2021.
-3. Akira Shioyoke, Yuki Fujita, Hiroshi Kawanabe, Jun Hayashi, Effects of the DC Electric Field on a Premixed Flat Flame Formed in an Impinging Flow, 14th Asia-Pacific Conference on Combustion, Kaohsiung, Taiwan, May 2023.
+2. Akira Shioyoke, Jun Hayashi, Takahiro Inoue, and Hiroshi Kawanabe, Displacement of the stretched laminar premixed flat flame by DC electric field, 2nd ACTS, 1262, Online, October 2021.
+3. Akira Shioyoke, Yuki Fujita, Hiroshi Kawanabe, and Jun Hayashi, Effects of the DC Electric Field on a Premixed Flat Flame Formed in an Impinging Flow, 14th Asia-Pacific Conference on Combustion, Kaohsiung, Taiwan, May 2023.
 
 #### Conference presentations (Japanese)
 
