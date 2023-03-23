@@ -21,8 +21,9 @@ I'm Ph.D student in Kyoto university walking the field of combustion from both w
 
 ### Education
 
-M.E. in Japan, March 2018 - Osaka University  
-B.E. in Japan, March 2016 - Osaka University
+B.E. 2012-2016, Osaka University, Japan
+M.E. 2016-2018, Osaka University, Japan
+Ph.D course (in progress) 2019-, Kyoto University, Japan
 
 ### Publications
 
@@ -67,9 +68,10 @@ English (Oral and written fluency)
 
 ### Honors/Awards
 
-Best Presentation Awards of Graduation Research Presentation, Kansai branch of JSME, 2016
+- Best Presentation Awards of Graduation Research Presentation, Kansai branch of JSME, 2016
+- Research Fellowship for Young Scientists DC2, Japan Society for Promoting of Science, 2020-2022
 
 ### Memberships / Affiliations
 
-Combustion Society of Japan  
-The Japan Society of Mechanical Engineers
+- Combustion Society of Japan  
+- The Japan Society of Mechanical Engineers
