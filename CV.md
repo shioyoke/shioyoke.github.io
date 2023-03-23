@@ -58,7 +58,7 @@ Ph.D course (in progress) 2019-, Kyoto University, Japan
 - Programming (Python, C/C++, FORTRAN)
 - Chemical Reaction Analysis (CHEMKIN-II, CHEMKIN-PRO, Cantera, ZDPlasKin, BOLSIG+)
 - 3D CG (TouchDesigner, GLSL)
-- Designing Experimental Appratus (Inpingin Flow Burner)
+- Designing Experimental Appratus (Inpinging Flow Burner)
 - Optical Measurement (Chemilumnescense, Spectroscopic measurement, PIV)
 
 ### Languages
