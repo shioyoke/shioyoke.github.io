@@ -12,7 +12,7 @@ s.akira2986@gmail.com
 +81 80 6450 3220
 ### Personal Profile
 
-I'm Research Fellow in Kyushu university walking the field of combustion from both way: chemical perspective and mathematical descriptions about pysics.
+I'm Research Fellow in Kyushu university walking through the field of combustion from both way: chemical perspective and mathematical descriptions about pysics.
 
 ### Research Interests
 
