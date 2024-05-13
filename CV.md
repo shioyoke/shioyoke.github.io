@@ -7,12 +7,12 @@ permalink: /cv/
 
 ### Akira Shioyoke
 
-Sakyo Ku, Kyoto Shi, Kyoto Fu, Japan
+Dazaihu Shi, Fukuoka Ken, Japan
 s.akira2986@gmail.com  
 +81 80 6450 3220
 ### Personal Profile
 
-I'm Ph.D student in Kyoto university walking the field of combustion from both way: chemical perspective and mathematical descriptions about pysics.
+I'm Research Fellow in Kyushu university walking the field of combustion from both way: chemical perspective and mathematical descriptions about pysics.
 
 ### Research Interests
 
@@ -23,7 +23,7 @@ I'm Ph.D student in Kyoto university walking the field of combustion from both w
 
 B.E. 2012-2016, Osaka University, Japan  
 M.E. 2016-2018, Osaka University, Japan  
-Ph.D course (in progress) 2019-, Kyoto University, Japan  
+Ph.D 2019-2024, Kyoto University, Japan  
 
 ### Publications
 
