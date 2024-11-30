@@ -38,6 +38,7 @@ Ph.D 2019-2024, Kyoto University, Japan
 2. Akira Shioyoke, Jun Hayashi, Takahiro Inoue, and Hiroshi Kawanabe, Displacement of the stretched laminar premixed flat flame by DC electric field, 2nd ACTS, 1262, Online, October 2021.
 3. Akira Shioyoke, Yuki Fujita, Hiroshi Kawanabe, and Jun Hayashi, Effects of the DC Electric Field on a Premixed Flat Flame Formed in an Impinging Flow, 14th Asia-Pacific Conference on Combustion, Kaohsiung, Taiwan, May 2023.
 4. Akira Shioyoke, Jun Hayashi, Hiroshi Kawanabe, Reaction analysis of frequency dependence on ignition delay time of CH4/Air mixture by repetitive supply of active species, 19th International Conference on Numerical Combustion, ICNC2024-1536, Kyoto, Japan, May 2024.
+5. Akira Shioyoke, Reo Kai, Hiroaki Watanabe, Thermal NOx production from pyrolysis-generated hydrogen in ammonia high temperature air combustion, International Symposium on Clean Energy and Advanced Materials, Pusan, South Korea, November 2024.
 
 #### Conference presentations (Japanese)
 
@@ -52,6 +53,7 @@ Ph.D 2019-2024, Kyoto University, Japan
 9. 田村紘太郎，井上弘貴，汐除　明，井上貴裕，林　潤，川那辺洋，繰り返しパルス放電によるメタン・空気予混合気中の初期火炎核生成過程，日本機械学会関西支部96期定時総会講演会，30302，2022年3月．
 10. 藤田侑己，汐除 明，林 潤，川那辺洋，衝突流れ場に形成されるメタン/空気予混合平面火炎に対する直流電界の影響，第60回燃焼シンポジウム，A212，2022年11月．
 10. 藤田侑己，汐除 明，後藤駿介，林 潤，川那辺洋，交流電界によるメタン/空気層流予混合平面火炎の時間応答特性，第61回燃焼シンポジウム，E224，2023年11月．
+11. 汐除　明，甲斐玲央，渡邊裕章，アンモニア⾼温空気燃焼の⽕炎構造とMILD条件の評価，第62回燃焼シンポジウム，A114，2024年11月．
 
 #### Graduate Teaching Assistant
 
