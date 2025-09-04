@@ -10,4 +10,4 @@ tags: [publication, HiTAC, Ammonia]
 
 ## リンク
 
-[Sience Direct]([https://pub.confit.atlas.jp/ja/event/htsj2025](https://www.sciencedirect.com/science/article/pii/S0360319925040625))
+[Sience Direct](https://www.sciencedirect.com/science/article/pii/S0360319925040625)
