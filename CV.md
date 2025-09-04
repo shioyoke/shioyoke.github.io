@@ -29,8 +29,9 @@ Ph.D 2019-2024, Kyoto University, Japan
 
 #### Peer-reviewed journal
 
-1. Akira Shioyoke, Jun Hayashi, Ryuichi Murai, Noriaki Nakatsuka and Fumiteru Akamatsu, Numerical investigation on effects of nonequilibrium plasma on laminar burning velocity of ammonia flame, Energy & Fuels, ACS Publications, Vol. 32, No. 3, pp. 3824–3832, 2018.
+1. Akira Shioyoke, Jun Hayashi, Ryuichi Murai, Noriaki Nakatsuka and Fumiteru Akamatsu, Numerical investigation on effects of nonequilibrium plasma on laminar burning velocity of ammonia flame, Energy & Fuels, ACS Publications, Vol.32, No.3 (2018) 3824–3832.
 2. 汐除　明，林　潤，川那辺洋，活性化学種の繰り返し供給における着火遅れ時間の周波数依存性に関する反応解析，日本燃焼学会誌，第64巻，209号，2022年．
+3. Akira Shioyoke, Reo Kai, and Hiroaki Watanabe, Flame structure and NO production on laminar non-premixed flames of ammonia with highly preheated air, International Journal of Hydrogen Energy, Vol.171 (2025) 151062.
 
 #### Conference presentations (English)
 
@@ -83,3 +84,4 @@ English (Oral and written fluency)
 
 - Combustion Society of Japan  
 - The Japan Society of Mechanical Engineers
+
