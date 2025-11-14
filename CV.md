@@ -40,6 +40,7 @@ Ph.D 2019-2024, Kyoto University, Japan
 3. Akira Shioyoke, Yuki Fujita, Hiroshi Kawanabe, and Jun Hayashi, Effects of the DC Electric Field on a Premixed Flat Flame Formed in an Impinging Flow, 14th Asia-Pacific Conference on Combustion, Kaohsiung, Taiwan, May 2023.
 4. Akira Shioyoke, Jun Hayashi, Hiroshi Kawanabe, Reaction analysis of frequency dependence on ignition delay time of CH4/Air mixture by repetitive supply of active species, 19th International Conference on Numerical Combustion, ICNC2024-1536, Kyoto, Japan, May 2024.
 5. Akira Shioyoke, Reo Kai, Hiroaki Watanabe, Thermal NOx production from pyrolysis-generated hydrogen in ammonia high temperature air combustion, International Symposium on Clean Energy and Advanced Materials, Pusan, South Korea, November 2024.
+6. Akira Shioyoke, Reo Kai, Hiroaki Watanabe, Chemical explosive mode analysis for a lifted ammonia jet flame in highly preheated and highly diluted air, 20th International Conference on Numerical Combustion, Rome, Itary, October 2025.
 
 #### Conference presentations (Japanese)
 
@@ -56,6 +57,7 @@ Ph.D 2019-2024, Kyoto University, Japan
 10. 藤田侑己，汐除 明，後藤駿介，林 潤，川那辺洋，交流電界によるメタン/空気層流予混合平面火炎の時間応答特性，第61回燃焼シンポジウム，E224，2023年11月．
 11. 汐除　明，甲斐玲央，渡邊裕章，アンモニア⾼温空気燃焼の⽕炎構造とMILD条件の評価，第62回燃焼シンポジウム，A114，2024年11月．
 11. 汐除　明，甲斐玲央，渡邊裕章，予熱周囲流中に形成される乱流浮き上がりアンモニア火炎の​化学的爆発モード解析，第62回伝熱シンポジウム，OS7-3-02，2025年5月．
+10. 汐除　明，甲斐玲央，渡邊裕章，完全混合反応器における高温予熱アンモニア/空気混合気の着火と消炎，第63回燃焼シンポジウム，A214，2025年11月．
 
 #### Graduate Teaching Assistant
 
@@ -84,4 +86,5 @@ English (Oral and written fluency)
 
 - Combustion Society of Japan  
 - The Japan Society of Mechanical Engineers
+
 
